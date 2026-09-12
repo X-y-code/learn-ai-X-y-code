@@ -17,3 +17,19 @@
 | 19:00-21:00 | 安全知识教育 | A208 |
 
 ![顺带分享一下今晚的校园夜景](https://github.com/X-y-code/learn-ai-X-y-code/raw/main/d2bca4b58136857ddc3d64f1c9c436a5.jpg)
+
+## 3. 关于 Markdonw 上代码块的用法实操
+### 3.1 这里附上一个C语言的简单代码
+
+···C
+#include <stdio.h>
+int main()
+{
+int a = 0;
+int b = 0;
+scanfs("%d",&a);
+scanfs("%d",&b);
+printf("两数之和为%d",a+b);
+return 0;
+}
+```
