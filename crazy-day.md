@@ -1,13 +1,17 @@
 # My Crazy Day
+
 ## 1. 起因
+
 2026 年我考入福州大学计算机与大数据学院，想学习更多的知识，我选择加入 westoline2 的考核。
 
 ### 1.1 学习的过程
-我先是通过 Anaconda 和 VS Code 完成了 task0 中对 python 的安装，然后进入到现在 GitHub 上的学习。
+
+我先是通过 Anaconda 和 VS Code 完成了 task0 中对 Python 的安装，然后进入到现在 GitHub 上的学习。
+
 > 只是这个过程我都在使用 DeepSeek 的指导，不知道我学习吸收的如何。
 
-
 ## 2. 顺便分享一下今天的安排
+
 ### 2.1 九月十一日
 
 | 时间 | 课程 | 地点 |
@@ -18,11 +22,15 @@
 
 ![顺带分享一下今晚的校园夜景](https://github.com/X-y-code/learn-ai-X-y-code/raw/main/d2bca4b58136857ddc3d64f1c9c436a5.jpg)
 
+图片来自 [我的 GitHub 仓库](https://github.com/X-y-code/learn-ai-X-y-code)。
+
 ## 3. 关于 Markdown 上代码块的用法实操
-### 3.1 这里附上一个C语言的简单代码
+
+### 3.1 这里附上一个 C 语言的简单代码
 
 ```c
 #include <stdio.h>
+
 int main()
 {
     int a = 0;
@@ -35,6 +43,7 @@ int main()
 ```
 
 ## 4. 关于有序列表的使用实操
+
 ### 4.1 这两天的收获
 
 1. 这是我第一次使用 AI 辅助学习，我意识到了现在学习方法需要转变。
