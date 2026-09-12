@@ -21,7 +21,7 @@
 ## 3. 关于 Markdown 上代码块的用法实操
 ### 3.1 这里附上一个C语言的简单代码
 
-···C
+```C
 #include <stdio.h>
 int main()
 {
@@ -33,9 +33,4 @@ printf("两数之和为%d",a+b);
 return 0;
 }
 ```
-编译运行方式：
 
-```bash
-gcc organize_photos.c -o organize_photos
-./organize_photos
-```
