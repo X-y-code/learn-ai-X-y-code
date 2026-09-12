@@ -18,7 +18,7 @@
 
 ![顺带分享一下今晚的校园夜景](https://github.com/X-y-code/learn-ai-X-y-code/raw/main/d2bca4b58136857ddc3d64f1c9c436a5.jpg)
 
-## 3. 关于 Markdonw 上代码块的用法实操
+## 3. 关于 Markdown 上代码块的用法实操
 ### 3.1 这里附上一个C语言的简单代码
 
 ···C
@@ -32,4 +32,10 @@ scanfs("%d",&b);
 printf("两数之和为%d",a+b);
 return 0;
 }
+```
+编译运行方式：
+
+```bash
+gcc organize_photos.c -o organize_photos
+./organize_photos
 ```
