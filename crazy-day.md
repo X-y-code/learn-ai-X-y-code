@@ -16,4 +16,4 @@
 | 14:30-16:30 | 人工智能专业介绍 | A410 |
 | 19:00-21:00 | 安全知识教育 | A208 |
 
-![顺带分享一下今晚的校园夜景](https://github.com/X-y-code/learn-ai-X-y-code/raw/main/d2bca4b58136857ddc3d64f1c9c436a5.jpg]
+![顺带分享一下今晚的校园夜景](https://github.com/X-y-code/learn-ai-X-y-code/raw/main/d2bca4b58136857ddc3d64f1c9c436a5.jpg)
